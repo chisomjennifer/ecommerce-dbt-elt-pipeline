@@ -235,11 +235,6 @@ Price = 45
 Order Value = 2 × 45 = 90
 
 
-These checks confirmed that the transformation was producing the expected order values.
-
-Screenshots of the dbt execution and validation results are included below.
-
-
 ## 12. Key Learnings
 
 Through this project, I learned and practiced:
