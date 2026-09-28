@@ -1,0 +1,11 @@
+# dbt generated files
+ecommerce_dbt/target/
+ecommerce_dbt/logs/
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
